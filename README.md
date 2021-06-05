@@ -1,1 +1,2 @@
-# c25-tanishka
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
